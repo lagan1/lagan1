@@ -63,9 +63,9 @@
 <circle cx="44" cy="23" r="7" fill="#ffbd2e"/>
 <circle cx="66" cy="23" r="7" fill="#27c93f"/>
 
-<text x="550" y="30" text-anchor="middle" class="title">lagan@github</text>
+<rect x="22" y="8" width="1064" height="742" rx="10" class="border"/>
 
-<rect x="18" y="18" width="1064" height="780" rx="10" class="border"/>
+<text x="550" y="30" text-anchor="middle" class="title">lagan@github</text>
     
 <!-- Left Column -->
 
@@ -84,14 +84,11 @@
 <text x="40" y="230" class="label">Browser</text>
 <text x="220" y="230" class="blue">Burp Suite Professional</text>
 
-<text x="40" y="280" class="label">Languages</text>
-<text x="220" y="280" class="pink">Python • Java • JavaScript • Go • Bash</text>
+<text x="40" y="265" class="label">Languages</text>
+<text x="220" y="265" class="pink">Python • Java • JavaScript • Bash</text>
 
-<text x="40" y="315" class="label">Web</text>
-<text x="220" y="315" class="pink">HTML • CSS • JSON • GraphQL</text>
-
-<text x="40" y="350" class="label">Security</text>
-<text x="220" y="350" class="red">Web • API • Android • SAST • DAST</text>
+<text x="40" y="300" class="label">Security</text>
+<text x="220" y="300" class="red">Web • API • Android • SAST • DAST</text>
 
 <!-- Right Column -->
 
@@ -101,30 +98,28 @@
 <text x="620" y="155" class="green">• Google Hall of Fame</text>
 <text x="620" y="185" class="green">• Dell Hall of Fame</text>
 <text x="620" y="215" class="green">• NASA Hall of Fame</text>
-<text x="620" y="245" class="green">• Mercedes-Benz Hall of Fame</text>
-<text x="620" y="275" class="green">• 40+ Organizations Secured</text>
+<text x="620" y="245" class="green">• 40+ Organizations Secured</text>
 
-<text x="600" y="335" class="label">Certifications</text>
+<text x="600" y="290" class="label">Certifications</text>
 
-<text x="620" y="370" class="cyan">• eWPTX</text>
-<text x="620" y="400" class="cyan">• eJPT</text>
-<text x="620" y="430" class="cyan">• CAP</text>
-<text x="620" y="460" class="cyan">• CNSP</text>
+<text x="620" y="325" class="cyan">• eWPTX</text>
+<text x="620" y="355" class="cyan">• eJPT</text>
+<text x="620" y="385" class="cyan">• CAP</text>
+<text x="620" y="415" class="cyan">• CNSP</text>
 
-<text x="600" y="520" class="label">Platforms</text>
+<text x="600" y="470" class="label">Platforms</text>
 
-<text x="620" y="555" class="pink">• HackTheBox (Top 600)</text>
-<text x="620" y="585" class="pink">• TryHackMe (Top 2%)</text>
+<text x="620" y="505" class="pink">• HackTheBox (Top 600)</text>
+<text x="620" y="535" class="pink">• TryHackMe (Top 2%)</text>
 
-<text x="600" y="645" class="label">Project</text>
+<text x="600" y="585" class="label">Project</text>
 
-<text x="620" y="680" class="blue">• Splitter - Burp Suite Extension</text>
-<text x="620" y="710" class="blue">• BlueMoon - Recon Automation Toolkit</text>
+<text x="620" y="620" class="blue">• Splitter - Burp Suite Extension</text>
+<text x="620" y="650" class="blue">• BlueMoon - Recon Automation Toolkit</text>
 
 <!-- Footer -->
-
-<line x1="40" y1="715" x2="1060" y2="715" stroke="#30363d"/>
-
+<line x1="40" y1="750" x2="1060" y2="750" stroke="#30363d"/>
+    
 <text x="40" y="742" class="label">LinkedIn</text>
 <text x="170" y="742" class="blue">linkedin.com/in/laganparihar</text>
 
