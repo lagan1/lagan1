@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+.bg { fill:#0d1117; }
+.border { fill:none; stroke:#30363d; stroke-width:2; }
+.header { fill:#161b22; }
+.title { fill:#f0f6fc; font:700 24px 'JetBrains Mono', monospace; }
+
+.label { fill:#d29922; font:700 20px 'JetBrains Mono', monospace; }
+.blue  { fill:#79c0ff; font:20px 'JetBrains Mono', monospace; }
+.green { fill:#3fb950; font:20px 'JetBrains Mono', monospace; }
+.cyan  { fill:#56d4dd; font:20px 'JetBrains Mono', monospace; }
+.pink  { fill:#d2a8ff; font:20px 'JetBrains Mono', monospace; }
+.red   { fill:#ff7b72; font:20px 'JetBrains Mono', monospace; }
+.white { fill:#f0f6fc; font:20px 'JetBrains Mono', monospace; }
+
+.small { fill:#8b949e; font:18px 'JetBrains Mono', monospace; }
+</style>
+
+<rect class="bg" width="1100" height="760" rx="14"/>
+<rect class="header" width="1100" height="46" rx="14"/>
+
+<circle cx="22" cy="23" r="7" fill="#ff5f56"/>
+<circle cx="44" cy="23" r="7" fill="#ffbd2e"/>
+<circle cx="66" cy="23" r="7" fill="#27c93f"/>
+
+<text x="550" y="30" text-anchor="middle" class="title">lagan@github</text>
+
+<rect x="18" y="18" width="1064" height="724" rx="10" class="border"/>
+
+<!-- Left Column -->
+
+<text x="40" y="90" class="label">OS</text>
+<text x="220" y="90" class="blue">Kali Linux, Windows 11, Android</text>
+
+<text x="40" y="125" class="label">Role</text>
+<text x="220" y="125" class="cyan">Security Researcher</text>
+
+<text x="40" y="160" class="label">Experience</text>
+<text x="220" y="160" class="green">Bug Bounty Hunter</text>
+
+<text x="40" y="195" class="label">IDE</text>
+<text x="220" y="195" class="blue">VS Code, Android Studio</text>
+
+<text x="40" y="230" class="label">Browser</text>
+<text x="220" y="230" class="blue">Burp Suite Professional</text>
+
+<text x="40" y="280" class="label">Languages</text>
+<text x="220" y="280" class="pink">Python • Java • JavaScript • Go • Bash</text>
+
+<text x="40" y="315" class="label">Web</text>
+<text x="220" y="315" class="pink">HTML • CSS • JSON • GraphQL</text>
+
+<text x="40" y="350" class="label">Security</text>
+<text x="220" y="350" class="red">Web • API • Android • SAST • DAST</text>
+
+<!-- Right Column -->
+
+<text x="600" y="90" class="label">Achievements</text>
+
+<text x="620" y="125" class="green">• Microsoft Hall of Fame</text>
+<text x="620" y="155" class="green">• Google Hall of Fame</text>
+<text x="620" y="185" class="green">• Dell Hall of Fame</text>
+<text x="620" y="215" class="green">• NASA Hall of Fame</text>
+<text x="620" y="245" class="green">• Mercedes-Benz Hall of Fame</text>
+<text x="620" y="275" class="green">• 40+ Organizations Secured</text>
+
+<text x="600" y="335" class="label">Certifications</text>
+
+<text x="620" y="370" class="cyan">• eWPTX</text>
+<text x="620" y="400" class="cyan">• eJPT</text>
+<text x="620" y="430" class="cyan">• CAP</text>
+<text x="620" y="460" class="cyan">• CNSP</text>
+
+<text x="600" y="520" class="label">Platforms</text>
+
+<text x="620" y="555" class="pink">• HackTheBox (Top 600)</text>
+<text x="620" y="585" class="pink">• TryHackMe (Top 2%)</text>
+
+<text x="600" y="645" class="label">Project</text>
+
+<text x="620" y="680" class="blue">• Splitter - Burp Suite Extension</text>
+<text x="620" y="680" class="blue">• BlueMoon - Recon Automation Toolkit</text>
+
+<!-- Footer -->
+
+<line x1="40" y1="715" x2="1060" y2="715" stroke="#30363d"/>
+
+<text x="40" y="742" class="label">LinkedIn</text>
+<text x="170" y="742" class="blue">linkedin.com/in/laganparihar</text>
+
+<text x="640" y="742" class="label">GitHub</text>
+<text x="760" y="742" class="blue">github.com/lagan1</text>
+
+</svg>
