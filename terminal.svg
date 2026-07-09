@@ -92,7 +92,7 @@
 
 <!-- Right Column -->
 
-<text x="600" y="90" class="label">Achievements</text>
+<text x="620" y="90" class="label">Achievements</text>
 
 <text x="620" y="125" class="green">• Microsoft Hall of Fame</text>
 <text x="620" y="155" class="green">• Google Hall of Fame</text>
@@ -100,30 +100,35 @@
 <text x="620" y="215" class="green">• NASA Hall of Fame</text>
 <text x="620" y="245" class="green">• 40+ Organizations Secured</text>
 
-<text x="600" y="290" class="label">Certifications</text>
+<text x="40" y="350" class="label">Certifications</text>
 
-<text x="620" y="325" class="cyan">• eWPTX</text>
-<text x="620" y="355" class="cyan">• eJPT</text>
-<text x="620" y="385" class="cyan">• CAP</text>
-<text x="620" y="415" class="cyan">• CNSP</text>
+<text x="60" y="385" class="cyan">• eWPTX</text>
+<text x="60" y="415" class="cyan">• eJPT</text>
+<text x="60" y="445" class="cyan">• CAP</text>
+<text x="60" y="475" class="cyan">• CNSP</text>
 
-<text x="600" y="470" class="label">Platforms</text>
+<text x="40" y="535" class="label">Platforms</text>
 
-<text x="620" y="505" class="pink">• HackTheBox (Top 600)</text>
-<text x="620" y="535" class="pink">• TryHackMe (Top 2%)</text>
+<text x="60" y="570" class="pink">• HackTheBox (Top 600)</text>
+<text x="60" y="600" class="pink">• TryHackMe (Top 2%)</text>
 
-<text x="600" y="585" class="label">Project</text>
 
-<text x="620" y="620" class="blue">• Splitter - Burp Suite Extension</text>
-<text x="620" y="650" class="blue">• BlueMoon - Recon Automation Toolkit</text>
+<text x="620" y="320" class="label">Projects</text>
+
+<text x="640" y="355" class="blue">• Splitter - Burp Suite Extension</text>
+<text x="640" y="385" class="blue">• BlueMoon - Recon Automation Toolkit</text>
+
+<!-- Contact -->
+
+<text x="620" y="445" class="label">Contact</text>
+
+<text x="640" y="480" class="label">LinkedIn</text>
+<text x="760" y="480" class="blue">linkedin.com/in/laganparihar</text>
+
+<text x="640" y="515" class="label">GitHub</text>
+<text x="760" y="515" class="blue">github.com/lagan1</text>
 
 <!-- Footer -->
 <line x1="40" y1="750" x2="1060" y2="750" stroke="#30363d"/>
-    
-<text x="40" y="742" class="label">LinkedIn</text>
-<text x="170" y="742" class="blue">linkedin.com/in/laganparihar</text>
-
-<text x="640" y="742" class="label">GitHub</text>
-<text x="760" y="742" class="blue">github.com/lagan1</text>
 
 </svg>
