@@ -1,22 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760">
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-
 .bg { fill:#0d1117; }
 .border { fill:none; stroke:#30363d; stroke-width:2; }
 .header { fill:#161b22; }
-.title { fill:#f0f6fc; font:700 24px 'JetBrains Mono', monospace; }
 
-.label { fill:#d29922; font:700 20px 'JetBrains Mono', monospace; }
-.blue  { fill:#79c0ff; font:20px 'JetBrains Mono', monospace; }
-.green { fill:#3fb950; font:20px 'JetBrains Mono', monospace; }
-.cyan  { fill:#56d4dd; font:20px 'JetBrains Mono', monospace; }
-.pink  { fill:#d2a8ff; font:20px 'JetBrains Mono', monospace; }
-.red   { fill:#ff7b72; font:20px 'JetBrains Mono', monospace; }
-.white { fill:#f0f6fc; font:20px 'JetBrains Mono', monospace; }
+.title{
+    fill:#f0f6fc;
+    font-family:monospace;
+    font-size:24px;
+    font-weight:bold;
+}
 
-.small { fill:#8b949e; font:18px 'JetBrains Mono', monospace; }
+.label{
+    fill:#d29922;
+    font-family:monospace;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.blue{
+    fill:#79c0ff;
+    font-family:monospace;
+    font-size:20px;
+}
+
+.green{
+    fill:#3fb950;
+    font-family:monospace;
+    font-size:20px;
+}
+
+.cyan{
+    fill:#56d4dd;
+    font-family:monospace;
+    font-size:20px;
+}
+
+.pink{
+    fill:#d2a8ff;
+    font-family:monospace;
+    font-size:20px;
+}
+
+.red{
+    fill:#ff7b72;
+    font-family:monospace;
+    font-size:20px;
+}
+
+.white{
+    fill:#f0f6fc;
+    font-family:monospace;
+    font-size:20px;
+}
 </style>
 
 <rect class="bg" width="1100" height="760" rx="14"/>
@@ -82,7 +119,7 @@
 <text x="600" y="645" class="label">Project</text>
 
 <text x="620" y="680" class="blue">• Splitter - Burp Suite Extension</text>
-<text x="620" y="680" class="blue">• BlueMoon - Recon Automation Toolkit</text>
+<text x="620" y="710" class="blue">• BlueMoon - Recon Automation Toolkit</text>
 
 <!-- Footer -->
 
