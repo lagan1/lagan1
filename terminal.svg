@@ -65,8 +65,8 @@
 
 <text x="550" y="30" text-anchor="middle" class="title">lagan@github</text>
 
-<rect x="18" y="18" width="1064" height="724" rx="10" class="border"/>
-
+<rect x="18" y="18" width="1064" height="780" rx="10" class="border"/>
+    
 <!-- Left Column -->
 
 <text x="40" y="90" class="label">OS</text>
